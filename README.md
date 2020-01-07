@@ -6,5 +6,5 @@ This repo houses all data file and notebooks for the Inclusion of the Brand in S
 Folders
 ===================================
 
-..* Data - all corresponding data files mentioned in the series of posts
-..* Notebooks - all corresponding Jupyter notebooks
+* Data - all corresponding data files mentioned in the series of posts
+* Notebooks - all corresponding Jupyter notebooks
